@@ -5,3 +5,7 @@
 temp/ 
 
 # Ignore Personal Files for Testing
+user_background_curtis.txt
+user_background_kim.txt
+
+SERA_GPT.txt
