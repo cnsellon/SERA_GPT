@@ -1,0 +1,7 @@
+# Ignore log files
+*.log
+
+# Ignore temp folders
+temp/ 
+
+# Ignore Personal Files for Testing
